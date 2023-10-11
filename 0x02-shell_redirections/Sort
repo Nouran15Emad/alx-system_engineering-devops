@@ -3,6 +3,11 @@
 11-directories
 12-newest_files
 13-unique
+14-findthatword
+15-countthatword
+16-whatsnext
+17-hidethisword
+18-letteronly
 1-confused_smiley
 2-hellofile
 3-twofiles
@@ -16,9 +21,8 @@
 creator
 iacta
 list
-ls
 ls_cwd_content
 pusher
 README.md
-sort
+Sort
 test_dir
