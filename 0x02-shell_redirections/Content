@@ -1,0 +1,55 @@
+.:
+total 132
+drwxr-xr-x 3 root root 4096 Oct 11 09:03 .
+drwxr-xr-x 6 root root  104 Oct  5 13:18 ..
+-rwxr-xr-x 1 root root   32 Oct  5 13:18 0-hello_world
+-rwxr-xr-x 1 root root   73 Oct 11 09:03 100-empty_casks
+-rwxr-xr-x 1 root root   48 Oct  6 07:55 10-no_more_js
+-rwxr-xr-x 1 root root   45 Oct  6 08:27 11-directories
+-rwxr-xr-x 1 root root   31 Oct  6 10:06 12-newest_files
+-rwxr-xr-x 1 root root   27 Oct 11 08:31 13-unique
+-rwxr-xr-x 1 root root   36 Oct  6 11:12 14-findthatword
+-rwxr-xr-x 1 root root   43 Oct  6 11:16 15-countthatword
+-rwxr-xr-x 1 root root   41 Oct  6 11:31 16-whatsnext
+-rwxr-xr-x 1 root root   38 Oct  6 11:43 17-hidethisword
+-rwxr-xr-x 1 root root   53 Oct  6 11:47 18-letteronly
+-rwxr-xr-x 1 root root   25 Oct 11 07:55 19-AZ
+-rwxr-xr-x 1 root root   29 Oct  5 13:29 1-confused_smiley
+-rwxr-xr-x 1 root root   23 Oct 11 07:58 20-hiago
+-rwxr-xr-x 1 root root   17 Oct 11 08:00 21-reverse
+-rwxr-xr-x 1 root root   62 Oct 11 08:18 22-users_and_homes
+-rwxr-xr-x 1 root root   29 Oct  5 13:32 2-hellofile
+-rwxr-xr-x 1 root root   41 Oct  5 13:38 3-twofiles
+-rwxr-xr-x 1 root root   33 Oct  5 14:00 4-lastlines
+-rwxr-xr-x 1 root root   29 Oct  5 13:43 5-firstlines
+-rwxr-xr-x 1 root root   35 Oct  5 13:56 6-third_line
+-rwxr-xr-x 1 root root  102 Oct  5 15:21 7-file
+-rwxr-xr-x 1 root root   37 Oct  5 14:39 8-cwd_state
+-rwxr-xr-x 1 root root   37 Oct  5 15:35 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Oct  5 15:17 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Oct 11 09:04 Content
+-rwxr-xr-x 1 root root  100 Oct 11 07:53 creator
+-rw-r--r-- 1 root root  857 Oct  5 15:36 iacta
+-rw-r--r-- 1 root root  168 Oct  6 09:28 list
+-rw-r--r-- 1 root root  812 Oct  5 14:40 ls_cwd_content
+-rwxr-xr-x 1 root root   96 Oct  5 13:18 pusher
+-rw-r--r-- 1 root root   17 Oct  5 13:25 README.md
+-rw-r--r-- 1 root root  369 Oct 11 07:09 Sort
+drwxr-xr-x 4 root root   35 Oct  6 08:02 test_dir
+
+./test_dir:
+total 4
+drwxr-xr-x 4 root root   35 Oct  6 08:02 .
+drwxr-xr-x 3 root root 4096 Oct 11 09:03 ..
+drwxr-xr-x 2 root root    6 Oct  6 08:02 photos
+drwxr-xr-x 2 root root    6 Oct  6 08:02 rep.gif
+
+./test_dir/photos:
+total 0
+drwxr-xr-x 2 root root  6 Oct  6 08:02 .
+drwxr-xr-x 4 root root 35 Oct  6 08:02 ..
+
+./test_dir/rep.gif:
+total 0
+drwxr-xr-x 2 root root  6 Oct  6 08:02 .
+drwxr-xr-x 4 root root 35 Oct  6 08:02 ..
