@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR |find . -type d,f -empty -printf '%P\n'
+ls -laR |find . -empty -type f -o -type d -printf '%P\n'
