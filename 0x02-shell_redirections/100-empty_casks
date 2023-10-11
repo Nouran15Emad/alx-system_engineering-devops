@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR > Content && find . -empty -type f -o -empty -type d
+find . -empty -type f -o -empty -type d
